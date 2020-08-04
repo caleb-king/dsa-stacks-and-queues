@@ -1,0 +1,29 @@
+constant time - O(1)
+logarithmic time - O(log(n))
+linear time - O(n)
+polynomial time - O(n^k)
+exponential time - O(2^n)
+
+(See index.js for implementation of Stack class and supplemental functions)
+
+3. Check for palindromes using a stack
+    - linear time - Big O(n)
+4. Matching parentheses in an expression
+    - linear time - Big O(n)
+5. Sort stack
+    - polynomial time - Big O(n^k)
+6. Create a queue using Singly linked list
+    - see queue-sll.js for class definition
+    - see queue.js for usage
+7. Create a queue class using Doubly linked List
+    - see queue-dll.js for class definition
+    - see queue.js for usage
+8. Queue implementation using a stack
+    - see queue-stack.js for class definition
+    - see queue.js for usage
+9. Square dance pairing
+    - see queue.js
+    - linear time - Big O(n)
+10. The Ophidian Bank
+    - see queue.js
+    - linear time - Big O(n)
